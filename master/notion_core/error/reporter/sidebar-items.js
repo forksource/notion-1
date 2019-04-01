@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["NOTION_DEV",""]],"enum":[["ErrorContext","Represents the context from which an error is being reported."]],"fn":[["collect_arguments","Combines all the arguments into a single String"],["compose_error_details",""]],"struct":[["ErrorReporter","Reporter for showing errors to the terminal and error logs"]]});
